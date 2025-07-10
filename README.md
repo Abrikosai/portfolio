@@ -9,4 +9,4 @@ DEV role: Michail Tarasevič (@mihaska1) https://www.linkedin.com/in/michail-tar
 
 Desinger: Evelina Aizpurva (non-github) https://www.linkedin.com/in/evelina-aizpurva-b67581372/
 
-Jira page: https://draugiskaplaneta.atlassian.net/jira/software/projects/APW/boards/37
+Jira page: https://aleksandrasgricenko.atlassian.net/jira/software/projects/APW/boards/1
